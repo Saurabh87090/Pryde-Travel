@@ -9,7 +9,7 @@ const About = () => {
           <div className='text-center lg:text-left px-0 lg:px-[160px]'>
             <h1 className='text-xl font-medium my-6'>Where do you want to go</h1>
             <p className='text-3xl lg:text-5xl font-semibold font-serif'>
-              Let's us worry about your plans, <br className='hidden lg:block' />
+              {"Let's us worry about your plans,"} <br className='hidden lg:block' />
               Just get packed🧳
             </p>
           </div>
@@ -43,7 +43,7 @@ const About = () => {
               />
               <h1 className='text-3xl lg:text-5xl font-semibold font-serif mt-5'>Rent a car</h1>
               <p className='text-md lg:text-lg font-medium my-6'>
-                Every journey should be tailored to your needs. Whether you're exploring a new city,
+               {" Every journey should be tailored to your needs. Whether you're exploring a new city,"}
                 <br className='hidden lg:block' />
                 heading out for a weekend getaway, or simply need a reliable ride for the day,
                 <br className='hidden lg:block' />

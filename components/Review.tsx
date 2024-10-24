@@ -14,10 +14,10 @@ const Review = () => {
       <div className="flex items-center justify-center flex-col text-[#0E3D4D] space-y-3">
         <h1 className="text-xl font-medium my-6">Testimonials</h1>
         <p className="text-5xl text-center font-semibold font-serif">
-          Don't take our word for it
+          {"Don't take our word for it"}
         </p>
         <p className="text-[#0e3d4dc8] pt-5 text-center text-xl font-medium mx-4 md:mx-0">
-          "I had the most incredible vacation experience thanks to the amazing
+          I had the most incredible vacation experience thanks to the amazing
           team at <br />
           XYZ Travel Agency! From the moment I contacted them, their friendly
           and <br />
@@ -25,7 +25,7 @@ const Review = () => {
           care of <br />
           every detail, from booking flights and accommodations to arranging
           local tours <br />
-          and activities.”
+          and activities.
         </p>
         <Image
           src="Stars.svg"

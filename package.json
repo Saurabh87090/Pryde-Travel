@@ -11,6 +11,7 @@
   "dependencies": {
     "@clerk/nextjs": "^5.7.5",
     "axios": "^1.7.7",
+    "framer-motion": "^11.11.9",
     "next": "14.2.6",
     "primereact": "^10.8.2",
     "react": "^18",
