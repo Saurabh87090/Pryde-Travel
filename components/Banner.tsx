@@ -9,12 +9,13 @@ const Banner = () => {
         <Image 
           src="Vector 1.svg" 
           alt="Frame 3" 
-          width={700}  // Reduced the width
-          height={200}  // Adjusted height accordingly
+          width={700}  
+          height={200}  
           className='object-cover'
         />
         
         {/* Text content overlapping the image */}
+        
         <div className='absolute top-0 w-full h-full flex flex-col items-center justify-center z-10 pt-11'>
           <h1 className='text-[40px] lg:text-[50px] font-extrabold font-serif leading-snug'>
             Ready to go? <br />
