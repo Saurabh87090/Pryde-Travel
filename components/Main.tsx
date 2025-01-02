@@ -15,11 +15,12 @@ const Main = () => {
   };
 
   return (
+    
     <div className="relative w-full h-full lg:h-auto">
       {/* Background Video */}
       <video
         className="absolute top-0 left-0 w-full h-full object-cover lg:h-screen"
-        src="background.mp4" // Replace with your video file
+        src="background.mp4" 
         autoPlay
         loop
         muted
