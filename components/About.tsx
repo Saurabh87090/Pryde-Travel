@@ -21,6 +21,7 @@ const About = () => {
         </div>
 
         {/* Image and Text Sections */}
+        
         <div className='flex flex-col lg:flex-row items-center lg:items-start mt-8 lg:mt-11'>
           <div className='mx-auto lg:ml-[100px]'>
             <Image
