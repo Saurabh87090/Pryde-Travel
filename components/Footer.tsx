@@ -22,13 +22,14 @@ const Footer = () => {
   };
 
   return (
+    
     <section className="py-10 bg-white sm:pt-16 lg:pt-24">
       <div className="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
         <div className="grid grid-cols-2  lg:grid-cols-8 gap-y-12 gap-x-8 xl:gap-x-12">
           <div className="col-span-2 md:col-span-4 xl:pr-8">
             <Image
               className="w-auto h-9"
-              src="logo2.svg" // Path to logo
+              src="logo2.svg" 
               alt="Medicare Logo"
               width={150}
               height={36}
