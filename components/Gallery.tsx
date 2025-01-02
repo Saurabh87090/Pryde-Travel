@@ -3,8 +3,10 @@ import Image from "next/image";
 
 const Gallery = () => {
   return (
+    
     <div className="px-4 sm:px-6">
       {/* Gallery Header */}
+      
       <div className="flex items-center justify-center flex-col text-[#0E3D4D] mt-[60px] sm:mt-[80px]">
         <h1 className="text-lg sm:text-xl font-medium my-4 sm:my-6">Trip Gallery</h1>
         <p className="text-2xl sm:text-4xl font-semibold font-serif lg:text-6xl text-center">
