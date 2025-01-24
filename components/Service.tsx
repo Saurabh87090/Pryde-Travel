@@ -10,9 +10,6 @@ const Service = () => {
     <div>
       
       <div className='bg-[#1E1E1E]  w-full md:my-[180px] lg:py-[60px] mt-2 flex flex-col lg:flex-row items-center justify-evenly py-8 '>
-        
-        
-       
         {/* First Item */}
         <div className={styles.cards}>
           <Image
