@@ -84,6 +84,7 @@ export default function CircularDemo() {
 
   const productTemplate = (product: any) => {
     return (
+      
       <motion.div
         whileHover={{ scale: 1.1 }}
         transition={{ type: "spring", stiffness: 300, damping: 20 }}
