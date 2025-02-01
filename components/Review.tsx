@@ -10,7 +10,6 @@ const Review = () => {
 
 
   return (
-    
     <div className="bg-white">
       <div className="flex items-center justify-center flex-col text-[#0E3D4D] space-y-3">
         <h1 className="text-xl font-medium my-6">Testimonials</h1>
