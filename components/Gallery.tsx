@@ -3,7 +3,6 @@ import Image from "next/image";
 
 const Gallery = () => {
   return (
-    
     <div className="px-4 sm:px-6">
       {/* Gallery Header */}
       
