@@ -15,6 +15,7 @@ const Main = () => {
   };
 
   return (
+    
     <div className="relative w-full h-full lg:h-auto">
       {/* Background Video */}
       <video
