@@ -3,7 +3,6 @@ import Image from 'next/image';
 
 const About = () => {
   return (
-    
     <div id='about'>
       <div className='mt-[100px] lg:mt-[180px] px-4'>
         <div className='text-[#0E3D4D] flex flex-col lg:flex-row justify-between items-center lg:items-start'>
