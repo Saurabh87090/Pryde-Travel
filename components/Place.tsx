@@ -5,7 +5,6 @@ import { CiLocationOn } from "react-icons/ci";
 const Place = (props: any) => {
   const { imageSrc, name, location, content } = props;
   return (
-    
     <div className="flex items-center justify-center space-x-11">
       <div className="w-[300px]">
         <img
