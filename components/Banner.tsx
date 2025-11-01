@@ -4,7 +4,6 @@ import Link from 'next/link';
 
 const Banner = () => {
   return (
-    
     <div className="relative">
       <div className='relative bg-[#112F38] text-white text-center flex items-center justify-center h-full w-full pb-[220px]'>
         <Image 
