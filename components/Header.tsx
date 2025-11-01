@@ -8,6 +8,7 @@ import { currentUser } from "@clerk/nextjs/server";
 import { UserButton } from "@clerk/nextjs";
 
 const styles = {
+  
   link: "text-base font-medium font-sans text-white transition-all duration-200 hover:text-blue-300 focus:text-blue-300",
   mobileLink:
     "inline-flex  py-2 text-base font-medium font-sans text-black transition-all duration-200 hover:text-blue-600 focus:text-blue-600",
