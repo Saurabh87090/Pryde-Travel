@@ -4,6 +4,7 @@ import Image from "next/image";
 function Card(props: any) {
     const { name, imgSrc } = props; 
     return (
+        
         <div className='flex items-center justify-center flex-col '>
           <Image
             src={imgSrc}
